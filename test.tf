@@ -9,5 +9,5 @@ resource "aws_instance" "Ubuntu" {
   instance_type = "t2.micro"
 }
 
-#AKIAQ3EGSYI4G7BKR7GQ
-#FP5lymuj+phCNniDm7/L+App4oNHI4zvkINEcjxh
+#AKIAQ3EGSYI4AYOOCZVJ
+#QkIiKshP4X2qByhHXHmwfciGZdScAwkCvXupqHfe
